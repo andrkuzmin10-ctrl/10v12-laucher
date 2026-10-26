@@ -1,0 +1,1 @@
+Пройдены: тесты каталога (с подменой сети), LAN/VPN/server, server-kit и проверка синтаксиса JS/CJS. Workflow YAML и конфигурация JSON прочитаны локально. Сборка EXE, GitHub Actions и запуск Minecraft не выполнялись.
