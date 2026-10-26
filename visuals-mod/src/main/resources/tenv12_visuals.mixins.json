@@ -1,0 +1,1 @@
+{"required":true,"package":"dev.tenv12.visuals.mixin","compatibilityLevel":"JAVA_21","client":["CrosshairMixin"],"injectors":{"defaultRequire":1}}
